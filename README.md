@@ -18,7 +18,7 @@
 A plugin for [Godot Engine](https://github.com/godotengine/godot) writted fully in [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html) that allow you to **EDIT** 2D and 3D editor while they are next to each other !
 
 <p align="center">
-        <img src="https://i.ibb.co/njM7HHD/ezgif-5-84a4cb3bbc.gif">
+        <img src="https://i.ibb.co/Hfz429fF/Capture-d-e-cran-2025-12-22-a-17-49-11.png">
 </p>
 
 ## 📦 Features 
